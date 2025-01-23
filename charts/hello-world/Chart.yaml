@@ -1,0 +1,14 @@
+name: hello-world
+version: 0.1.0
+description: Hello Tik Tuk World
+type: application
+keywords:
+  - hello
+  - world
+  - kubernetes
+  - helm
+maintainers:
+  - name: Carlos Parada Leon
+    email: copleon95@gmail.com.com
+sources:
+  - https://github.com/carlospleon/hello-tik-tuk-world
